@@ -1,5 +1,4 @@
-Analista de Dados em formação.
-
+Estudante de Ciência de Dados, com foco em estatística.
 
 
 ## Linguagens e ferramentas
