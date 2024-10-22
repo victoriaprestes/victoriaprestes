@@ -1,5 +1,8 @@
 ## Hi! 👋  
 
+![Outer Wilds](https://media.tenor.com/images/a3b65f59c1c89c0e9e70ac77188cbf1e/tenor.gif)
+
+
 **I'm Victoria, a data analyst in the making and an avid student.**
 I love statistics and math and i love tech so why not join both?
 Currently, I have an exploratory data analysis project you can check out, and I’m constantly evolving my skills. Always excited to learn and collaborate, feel free to connect with me!
@@ -17,3 +20,5 @@ Currently, I have an exploratory data analysis project you can check out, and I�
 
 * I love gaming; my favorite game ever is *Outer Wilds*, but you can mostly find me playing *Stardew Valley* every day.  
 * I also enjoy reading, trying new cafes, watching films, and visiting museums—yep, I'm a nerd. But isn't everyone?
+
+
