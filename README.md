@@ -8,8 +8,7 @@ I love statistics and math and I love tech, so why not join both? It’s fascina
 Currently, I have an [exploratory data analysis project](https://github.com/victoriaprestes/ifood-data-analyst-case) you can check out, and I’m constantly evolving my skills. 
 
 
-### Connect
-Always excited to learn and collaborate, feel free to connect with me!
+### Always excited to learn and collaborate, feel free to connect with me!
 * E-mail: [victoriaprestesl@outlook.com](mailto:victoriaprestesl@outlook.com)
 * LinkedIn: [https://www.linkedin.com/in/victoriaprestesl/](https://www.linkedin.com/in/victoriaprestesl/)
 
