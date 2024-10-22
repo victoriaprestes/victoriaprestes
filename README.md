@@ -1,4 +1,5 @@
-### Hi! 👋  
+## Hi! 👋  
+
 **I'm Victoria, a data analyst in the making and an avid student.**
 I love statistics and math and i love tech so why not join both?
 Currently, I have an exploratory data analysis project you can check out, and I’m constantly evolving my skills. Always excited to learn and collaborate, feel free to connect with me!
