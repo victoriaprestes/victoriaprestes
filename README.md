@@ -4,11 +4,11 @@
 
 <img align='right' src='https://media1.tenor.com/m/v5lxzTqe79AAAAAd/outer-wilds.gif' width='250'>
 
-I love statistics and math and I love tech, so why not join both? It’s fascinating to see how data can tell stories and help us figure things out.
-Currently, I have an [exploratory data analysis project](https://github.com/victoriaprestes/ifood-data-analyst-case) you can check out, and I’m constantly evolving my skills to be able create more interesting projects.
+I love statistics and math and I love tech, so i thought 'why not join both?' It’s fascinating to see how data can tell stories and help us figure things out.
+Currently, I have a couple of projects you can check out, and I’m constantly evolving my skills to be able create more interesting analysis.
 
 
-### Always excited to learn and collaborate, feel free to connect with me!
+### Always happy to learn and collaborate, feel free to connect with me!
 * E-mail: [victoriaprestesl@outlook.com](mailto:victoriaprestesl@outlook.com)
 * LinkedIn: [https://www.linkedin.com/in/victoriaprestesl/](https://www.linkedin.com/in/victoriaprestesl/)
 
