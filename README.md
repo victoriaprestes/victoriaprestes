@@ -18,4 +18,6 @@ Currently, I have a couple of projects you can check out, and I’m constantly e
 ### About Me
 * I love gaming; my favorite game ever is *Outer Wilds*, but you can mostly find me playing *Stardew Valley* every other day.  
 * I also love books, films, art, astrophysics—I know, I'm a nerd. But isn't everyone nowadays?
-* 
+  
+
+  
